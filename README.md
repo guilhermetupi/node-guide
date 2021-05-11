@@ -10,29 +10,26 @@
 
 [Node.js](https://nodejs.org/en/)
 
-## Running the project
+# Running the project
 
-# Clone this repo
+## Clone this repo
 $ git clone <https://github.com/guilhermetupi/node-guide.git>
 
-# Access the directory in the terminal/cmd
-```$ cd node-guide```
-
-# Install dependencies
+## Install dependencies
 With npm:
 ```$ npm i```
 
 With yarn:
 ```$ yarn add```
 
-# Run the project
+## Run the project
 With npm:
 ```$ npm start```
 
 With yarn:
 ```$ yarn start```
 
-## 🛠 Technologies
+# 🛠 Technologies
 
 The following tools were used on this project:
 
