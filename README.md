@@ -6,7 +6,7 @@
 
 🚧 On going...
 
-## Prerequisites
+# Prerequisites
 
 [Node.js](https://nodejs.org/en/)
 
