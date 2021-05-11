@@ -16,21 +16,21 @@
 $ git clone <https://github.com/guilhermetupi/node-guide.git>
 
 # Access the directory in the terminal/cmd
-$ cd nlw1
+```$ cd node-guide```
 
 # Install dependencies
 With npm:
-$ npm i
+```$ npm i```
 
 With yarn:
-$ yarn add
+```$ yarn add```
 
 # Run the project
 With npm:
-$ npm start
+```$ npm start```
 
 With yarn:
-$ yarn start
+```$ yarn start```
 
 ## 🛠 Technologies
 
